@@ -84,7 +84,7 @@ This course spans over 14 weeks, ensuring a holistic understanding of the Python
 
 ### Week 11-12: Web & Automation (Days 71-84)
 - **Web Development with Flask**
-  - Setting up Django
+  - Setting up Flask
   - Creating routes
   - Rendering templates
 - **Python Automation**
