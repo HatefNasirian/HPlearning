@@ -102,7 +102,7 @@ This course spans over 14 weeks, ensuring a holistic understanding of the Python
   - Automation scripts
 - **Conclusion and Further Learning Path**
   - Review of the 100-day journey
-  - Suggestions on what to learn next (Flask, AI/ML with Python, etc.)
+  - Suggestions on what to learn next (Django, AI/ML with Python, etc.)
 
 ### Throughout the course, incorporate:
 - **Regular Assignments & Quizzes**: To ensure comprehension and retention.
