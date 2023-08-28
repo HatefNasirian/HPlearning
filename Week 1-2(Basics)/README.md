@@ -220,9 +220,6 @@ The goal of this assignment is to investigate whether Python can be used to acco
 - What Python tools, libraries, or frameworks could be useful?
 - Is your idea feasible with Python? Why or why not?
 
-#### Submission
-
-After completing your research and essay, save it as a Markdown (.md) file and submit it for evaluation. Proofreading before submission is advised.
 
 #### Evaluation Criteria
 
