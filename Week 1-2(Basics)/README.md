@@ -187,47 +187,52 @@ Python is a versatile language used in a variety of industries for different pur
 
 These are just a few examples that showcase Python's versatility. Its capability to power both simple applications and complex systems in various domains makes it one of the most widely used programming languages today.
 
-### 📓Assignment: Research and Write About a Real-world Application of Python
+
+### 📓Assignment: Can Python Do That? Explore the Feasibility of Your Idea with Python
+
+#### Instructor's Note
+> "In my opinion, until we have a precise understanding of the program we want to write and the language we want to write with, programming will be nothing but coding and pressing keys. Let this assignment be a journey towards that understanding, where you explore the boundaries and capabilities of Python in the context of your interests."
+> \- **Hatef Nasirian**
 
 #### Objective
-Your task is to research a real-world application where Python programming language plays a key role and write an article discussing its implementation and impact.
+The goal of this assignment is to investigate whether Python can be used to accomplish something you're interested in. This could range from creating a video game, analyzing stock market data, or automating a tedious task. You'll research and write about the feasibility of implementing your idea using Python.
 
 #### Guidelines
 
-1. **Choose an Application**: Pick an application or a project that uses Python. This could be a well-known service, an open-source project, or even a commercial product.
+1. **Choose Your Interest or Problem**: Identify a specific area you're interested in or a problem you'd like to solve.
 
-2. **Research**: Spend time researching how Python is used in this application. Look into the codebase if it's open-source, read developer blogs, or even reach out to professionals who have worked on the project.
+2. **Research Python's Capabilities**: Look into whether Python has the libraries, frameworks, or features needed to implement your idea.
 
-3. **Structure Your Article**: Your article should have an introduction, body, and conclusion. Feel free to include code snippets, screenshots, or any other material that will make your article more informative.
+3. **Documentation and Code Snippets**: Include any existing Python libraries or code snippets that could be useful for your project. Make sure to cite them if some portion of the implementation has already been done in Python.
 
-4. **Cite Your Sources**: Please make sure you cite any resources, articles, or papers you refer to. 
+4. **Feasibility Analysis**: Discuss the feasibility of your idea. Is Python the right tool for the job? Are there limitations?
 
-5. **Word Limit**: Your article should be between 300-500 words.
+5. **Write Your Findings**: Compile your research and analyses into a cohesive and well-organized short essay.
+
+6. **Cite Your Sources**: Any resources, tutorials, or papers you've consulted should be properly cited.
+
+7. **Word Limit**: Aim to keep your write-up between 300-500 words.
 
 #### What to Cover
 
-- What does the application do?
-- Why was Python chosen for this project?
-- What specific features of Python are being utilized?
-- How has the use of Python benefited the project?
-- Are there any challenges that were faced?
-- What can we learn from this application's use of Python?
+- What's your idea, interest, or problem statement?
+- Can Python be used to implement or solve it?
+- What Python tools, libraries, or frameworks could be useful?
+- Is your idea feasible with Python? Why or why not?
 
 #### Submission
 
-Once you're done writing your article, save it in a Markdown (.md) file and upload it to the classroom portal for evaluation. Make sure to proofread your work before submitting it!
+After completing your research and essay, save it as a Markdown (.md) file and submit it for evaluation. Proofreading before submission is advised.
 
 #### Evaluation Criteria
 
-- Relevance of the chosen application
-- Depth of research
-- Clarity and structure of the article
+- Relevance and originality of the chosen idea
+- Depth of research into Python's capabilities
+- Quality and clarity of the written analysis
 - Proper citation of sources
-- Meeting the word limit
+- Adherence to word limit
 
 #### Due Date
+The assignment is due by [30 Min].
 
-The assignment is due by [30m after reading].
-
------
 
