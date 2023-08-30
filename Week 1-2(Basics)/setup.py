@@ -25,6 +25,7 @@ def install_requirements():
     # Adding virtual environment to Jupyter Notebook
     kernel_name = "venv_kernel"
     subprocess.run([python_path, '-m', 'ipykernel', 'install', '--user', '--name', kernel_name])
+    subprocess.run([pip_path, 'install', 'jupyter'])
 
 
 def launch_jupyter():
