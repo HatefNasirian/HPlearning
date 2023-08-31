@@ -176,7 +176,7 @@ switch.
 
 ---
 ## 📝 Assignment: Comparing Python 2 and Python 3
-> "Understanding the origins of a programming language can significantly expedite the learning process. Acquiring insights into the perspectives of its key developers allows you to view the language through the lens of its creators, enriching your comprehension. This notion is analogous to studying the impact of great minds like Mozart, Beethoven, Nietzsche, and Schopenhauer on the German language. Their work didn't just contribute to culture; it shaped the very spirit of the language itself."  
+> "Understanding the origins of a programming language can significantly expedite the learning process. Acquiring insights into the perspectives of its key developers allows you to view the language through the lens of its creators, enriching your comprehension. This notion is analogous to studying the impact of great minds like Mozart, Beethoven, Nietzsche, Goethe and Schopenhauer on the German language. Their work didn't just contribute to culture; it shaped the very spirit of the language itself."  
 > \- **Hatef Nasirian**
 
 ### 🎯 Objectives:
