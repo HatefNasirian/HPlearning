@@ -34,7 +34,7 @@ This course spans over 14 weeks, ensuring a holistic understanding of the Python
 foundational constructs, real-world applications, and the latest libraries and tools that make Python so popular and
 powerful.
 
-### Week 1-2: Basics (Days 1-14)[Start](Week 1-2(Basics)/README.md)
+### Week 1-2: Basics (Days 1-14) [Start](Week 1-2(Basics)/README.md)
 
 - **Introduction**
     - History of Python
